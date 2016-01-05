@@ -1,2 +1,2 @@
 # Fillit
-42 projet: Fillit
+42 project: Fillit
